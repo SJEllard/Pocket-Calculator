@@ -1,8 +1,6 @@
 # Pocket-Calculator
- A simple calculator built with Python and Tkinter
- 
-<h2>Description</h2>
-A basic calculator GUI. User can add, subtract, multiply and divide integers using buttons. The user can repeatedly use equal button to repeat last operation. Can clear with AC button.
+
+A basic calculator GUI. User can add, subtract, multiply and divide integers using buttons. User can repeatedly use equal button to repeat last operation. Can clear display and stored values with AC button.
 
 <h2>How to Use</h2>
 Instructions will go here
