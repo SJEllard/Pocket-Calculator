@@ -1,0 +1,20 @@
+{
+  "name": "Pocket-Calculator",
+  "version": "1.0.0",
+  "description": "A basic calculator GUI. User can add, subtract, multiply and divide integers using buttons. User can repeatedly use equal button to repeat last operation. Can clear display and stored values with AC button.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SJEllard/Pocket-Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SJEllard/Pocket-Calculator/issues"
+  },
+  "homepage": "https://github.com/SJEllard/Pocket-Calculator#readme"
+}
